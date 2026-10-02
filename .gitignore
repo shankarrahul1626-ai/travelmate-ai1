@@ -14,8 +14,13 @@ __pycache__/
 
 # Database / generated output
 *.db
+backend/*.db
+backend/**/tickets/*.pdf
+backend/**/tickets/*.png
 backend/tickets/*.pdf
 backend/tickets/*.png
+backend/backend/tickets/*.pdf
+backend/backend/tickets/*.png
 
 # Node
 node_modules/
